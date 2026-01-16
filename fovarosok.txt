@@ -1,0 +1,11 @@
+Ország;Főváros;Lakosság (fő);Terület (km²);GDP/fő (USD);Legmagasabb Épület Neve;Magasság (m)
+Magyarország;Budapest;1750000;525;24000;MOL Campus;143
+Ausztria;Bécs;1980000;415;51000;DC Tower 1;250
+Németország;Berlin;3760000;892;48000;Fernsehturm;368
+Olaszország;Róma;2860000;1285;45000;Torre Eurosky;155
+Franciaország;Párizs;2140000;105;71000;Tour Eiffel;330
+Egyesült Királyság;London;8980000;1572;65000;The Shard;310
+Spanyolország;Madrid;3300000;604;53000;Torre de Cristal;249
+Kína;Peking;21540000;16410;28000;China Zun;528
+USA;Washington D.C.;705000;177;88000;Washington Monument;169
+Kanada;Ottawa;990000;2778;56000;Place de Ville II;112

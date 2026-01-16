@@ -1,0 +1,11 @@
+Csapat neve;Alapítás éve;Stadion neve;Stadion befogadóképessége (fő);Legutóbbi bajnoki cím éve
+FC Budapest;1950;Népstadion;55000;2020
+Fehérvár SE;1987;Sóstói Aréna;14000;2018
+Debreceni VSC;1902;Nagyerdei Stadion;20340;2014
+Újpest FC;1885;Szusza Ferenc Stadion;13501;1998
+Ferencvárosi TC;1899;Groupama Aréna;23700;2024
+Győri ETO;1904;ETO Park;15600;2013
+Zalaegerszegi TE;1920;ZTE Aréna;8900;2002
+Honvéd FC;1909;Bozsik Aréna;8200;2017
+Diósgyőri VTK;1910;DVTK Stadion;14700;2011
+Vasas SC;1911;Illovszky Rudolf Stadion;5150;1977
